@@ -1,0 +1,1 @@
+# Next Auth Starter With Prisma & TS
